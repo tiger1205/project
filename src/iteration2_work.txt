@@ -1,0 +1,7 @@
+Daniel Tran
+Yuxiang Wang
+
+Alteration of makefile: Joint
+Sample testing: Joint
+Division of work statement: Joint
+Tagging: Joint

@@ -1,0 +1,12 @@
+Daniel Tran
+Yuxiang Wang
+
+
+Design: Joint
+Creation of Scanner.cpp and scanner loop: Yuxiang
+Writing the reguler expressions: Joint
+Debugging of all files: Daniel
+Writing of supporting method/function tests: Joint
+Writing of terminal tests: Daniel 
+Removal of unecessary file: Yuxiang 
+Tagging of Iter 1: Joint 

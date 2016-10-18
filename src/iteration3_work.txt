@@ -1,0 +1,6 @@
+Designed the AST: jointly
+UML: Daniel Tran
+Completed Ast.h: Daniel Tran
+Completed Ast.cpp: Yuxiang Wang
+Completed parse: joinly
+Debug: jointly

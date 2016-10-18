@@ -1,0 +1,83 @@
+\begin{theindex}
+
+  \item {Ast\discretionary {-}{}{}Test\discretionary {-}{}{}Suite}, 
+		\hyperpage{5}
+
+  \indexspace
+
+  \item {Char\discretionary {-}{}{}Const\discretionary {-}{}{}Token}, 
+		\hyperpage{5}
+
+  \indexspace
+
+  \item {Dash\discretionary {-}{}{}Token}, \hyperpage{6}
+
+  \indexspace
+
+  \item {End\discretionary {-}{}{}Of\discretionary {-}{}{}File\discretionary {-}{}{}Token}, 
+		\hyperpage{6}
+  \item {Ext\discretionary {-}{}{}Token}, \hyperpage{7}
+
+  \indexspace
+
+  \item {False\discretionary {-}{}{}Kwd\discretionary {-}{}{}Token}, 
+		\hyperpage{8}
+  \item {Float\discretionary {-}{}{}Const\discretionary {-}{}{}Token}, 
+		\hyperpage{8}
+  \item {Forward\discretionary {-}{}{}Slash\discretionary {-}{}{}Token}, 
+		\hyperpage{9}
+
+  \indexspace
+
+  \item {If\discretionary {-}{}{}Token}, \hyperpage{9}
+  \item {Int\discretionary {-}{}{}Const\discretionary {-}{}{}Token}, 
+		\hyperpage{10}
+
+  \indexspace
+
+  \item {Left\discretionary {-}{}{}Paren\discretionary {-}{}{}Token}, 
+		\hyperpage{10}
+  \item {Let\discretionary {-}{}{}Token}, \hyperpage{10}
+
+  \indexspace
+
+  \item {Not\discretionary {-}{}{}Op\discretionary {-}{}{}Token}, 
+		\hyperpage{11}
+
+  \indexspace
+
+  \item {Parse\discretionary {-}{}{}Result}, \hyperpage{12}
+  \item {Parser}, \hyperpage{11}
+  \item {Parser\discretionary {-}{}{}Test\discretionary {-}{}{}Suite}, 
+		\hyperpage{13}
+  \item {Plus\discretionary {-}{}{}Sign\discretionary {-}{}{}Token}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item {Regex\discretionary {-}{}{}Test\discretionary {-}{}{}Suite}, 
+		\hyperpage{14}
+  \item {Relational\discretionary {-}{}{}Op\discretionary {-}{}{}Token}, 
+		\hyperpage{14}
+
+  \indexspace
+
+  \item {Scanner}, \hyperpage{15}
+  \item {Scanner\discretionary {-}{}{}Test\discretionary {-}{}{}Suite}, 
+		\hyperpage{15}
+  \item {Star\discretionary {-}{}{}Token}, \hyperpage{16}
+  \item {String\discretionary {-}{}{}Const\discretionary {-}{}{}Token}, 
+		\hyperpage{17}
+
+  \indexspace
+
+  \item {Token}, \hyperpage{17}
+  \item {True\discretionary {-}{}{}Kwd\discretionary {-}{}{}Token}, 
+		\hyperpage{18}
+
+  \indexspace
+
+  \item {Variable\discretionary {-}{}{}Name\discretionary {-}{}{}Token}, 
+		\hyperpage{18}
+
+\end{theindex}

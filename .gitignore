@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.app
+*.bak
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+#a trailing ~ committed
+*~
+
+#
+parser_tests
+parser_tests.cpp
+regex_tests
+regex_tests.cpp
+scanner_tests
+scanner_tests.cpp
